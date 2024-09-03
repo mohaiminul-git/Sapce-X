@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"jupyter.interactiveWindow.textEditor.executeSelection": true,
+		"editor.defaultFormatter": "charliermarsh.ruff",
+		"git.ignoreLimitWarning": true
+	}
+}
